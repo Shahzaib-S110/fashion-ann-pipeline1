@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.dvc/cache
+.dvc/tmp
+*.h5
+gdrive-user-credentials.json
+*credentials*.json
+client_secret*.json
